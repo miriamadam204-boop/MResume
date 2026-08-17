@@ -1,2 +1,2 @@
 # MResume
-My Resum
+My Resume
